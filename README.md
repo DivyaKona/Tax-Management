@@ -1,0 +1,6 @@
+![adminedit](https://github.com/DivyaKona/Tax-Management/assets/77919065/01a642da-f810-484d-9186-c98c700cde3c)
+![Uploading Admin modify.png…]()
+![Uploading Admin Display.png…]()
+![Uploading Admin add.png…]()
+![Uploading AdminMonthly.png…]()
+![Uploading adminledger.png…]()
